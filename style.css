@@ -212,7 +212,7 @@ section .title::after {
 /*  Home  */
 .home {
   display: flex;
-  background: url("https://source.unsplash.com/720x600/?dark,laptop") no-repeat
+  background: url("https://img.freepik.com/premium-vector/isometric-laptop-analysis-information-connect-with-server-futuristic-concept-illustration_35136-278.jpg?w=740") no-repeat
     center;
   height: 100vh;
   color: #fff;
